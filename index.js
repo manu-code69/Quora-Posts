@@ -33,7 +33,7 @@ let posts = [
   {
         id : uuidv4(),
         username : "dev",
-        content : "chutiya banao "
+        content : " karnal is Best"
 },
   {
         id : uuidv4() ,
